@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "BLUETOOTH_CAR.ino"
+}
